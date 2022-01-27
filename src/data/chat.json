@@ -1,0 +1,43 @@
+[
+  {
+    "id": "312312321",
+    "type": "text",
+    "created_at": 1407386137,
+    "user_id": "2",
+    "transcript": [
+      {
+        "id": "1",
+        "date": 1407386139,
+        "message": "Hi Mia! Great to see you again!"
+      },
+      {
+        "id":"2",
+        "date":1407386156,
+        "message":"I have a question about your kitty spaceships?"
+      }
+    ]
+  },
+  {
+    "id": "786867867",
+    "type": "text",
+    "created_at": 1406738364,
+    "user_id": "1",
+    "transcript": [
+      {
+        "id": "1",
+        "date": 1406738366,
+        "message": "Hi there! I see you are coming from the U.S. We do ship there, is there anything I can help with?"
+      },
+      {
+        "id":"2",
+        "date":1406738366,
+        "message":"Hello there!"
+      },
+      {
+        "id":"3",
+        "date":1406738384,
+        "message":"How are you?"
+      }
+    ]
+  }
+]

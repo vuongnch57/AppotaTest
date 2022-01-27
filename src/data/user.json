@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "me",
+        "avatar": "",
+        "status": 1
+    },
+    {
+        "id": "2",
+        "name": "Chris",
+        "avatar": "",
+        "status": 0
+    },
+    {
+        "id": "3",
+        "name": "Glenn",
+        "avatar": "",
+        "status": 1
+    },
+    {
+        "id": "4",
+        "name": "Sophia",
+        "avatar": "",
+        "status": 1
+    }
+]
